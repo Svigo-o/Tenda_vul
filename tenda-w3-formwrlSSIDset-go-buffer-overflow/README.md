@@ -21,9 +21,9 @@ Tenda w3 V1.0.0.3(2204) was discovered to contain a buffer overflow via the `GO`
 This vulnerability lies in the `/goform/wifiSSIDset` page.
 
 
-<div  align="center"><img src="./img/function1.png" style="zoom:80%;" /></div>
+<div  align="left"><img src="./img/function1.png" style="zoom:80%;" /></div>
 <br />
-<div  align="center"><img src="./img/function2.png" style="zoom:80%;" /></div>
+<div  align="left"><img src="./img/function2.png" style="zoom:80%;" /></div>
 
 ## Proof of Concept (PoC)
 

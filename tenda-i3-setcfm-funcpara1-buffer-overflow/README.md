@@ -20,9 +20,9 @@ Tenda i3 V1.0.0.6(2204) was discovered to contain a buffer overflow via the `fun
 
 This vulnerability lies in the `/goform/setcfm` page.
 
-<div  align="center"><img src="./img/function1.png" style="zoom:80%;" /></div>
+<div  align="left"><img src="./img/function1.png" style="zoom:80%;" /></div>
 <br />
-<div  align="center"><img src="./img/function2.png" style="zoom:80%;" /></div>
+<div  align="left"><img src="./img/function2.png" style="zoom:80%;" /></div>
 
 ## Proof of Concept (PoC)
 
