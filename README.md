@@ -22,3 +22,13 @@ Tenda 路由器漏洞复现与分析记录。
 | [tenda-i3-formwrlSSIDget-index-buffer-overflow](tenda-i3-formwrlSSIDget-index-buffer-overflow) | i3 | wifiSSIDget / `formwrlSSIDget` | `index` | Buffer Overflow |
 | [tenda-i3-formwrlSSIDset-index-buffer-overflow](tenda-i3-formwrlSSIDset-index-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `index` | Buffer Overflow |
 | [tenda-i3-formwrlSSIDset-go-buffer-overflow](tenda-i3-formwrlSSIDset-go-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `GO` | Buffer Overflow |
+| [tenda-w3-setcfm-funcpara1-buffer-overflow](tenda-w3-setcfm-funcpara1-buffer-overflow) | w3 | CFM / `formSetCfm` | `funcpara1` | Buffer Overflow |
+| [tenda-w3-setautoping-ping1-buffer-overflow](tenda-w3-setautoping-ping1-buffer-overflow) | w3 | AutoPing / `formSetAutoPing` | `ping1` | Buffer Overflow |
+| [tenda-w3-setautoping-ping2-buffer-overflow](tenda-w3-setautoping-ping2-buffer-overflow) | w3 | AutoPing / `formSetAutoPing` | `ping2` | Buffer Overflow |
+| [tenda-w3-formexeCommand-cmdinput-buffer-overflow](tenda-w3-formexeCommand-cmdinput-buffer-overflow) | w3 | exeCommand / `formexeCommand` | `cmdinput` | Buffer Overflow |
+| [tenda-w3-formWifiMacFilterGet-index-buffer-overflow](tenda-w3-formWifiMacFilterGet-index-buffer-overflow) | w3 | WifiMacFilterGet / `formWifiMacFilterGet` | `index` | Buffer Overflow |
+| [tenda-w3-formWifiMacFilterSet-index-buffer-overflow](tenda-w3-formWifiMacFilterSet-index-buffer-overflow) | w3 | WifiMacFilterSet / `formWifiMacFilterSet` | `index` | Buffer Overflow |
+| [tenda-w3-formWifiMacFilterSet-go-buffer-overflow](tenda-w3-formWifiMacFilterSet-go-buffer-overflow) | w3 | WifiMacFilterSet / `formWifiMacFilterSet` | `GO` | Buffer Overflow |
+| [tenda-w3-formwrlSSIDget-index-buffer-overflow](tenda-w3-formwrlSSIDget-index-buffer-overflow) | w3 | wifiSSIDget / `formwrlSSIDget` | `index` | Buffer Overflow |
+| [tenda-w3-formwrlSSIDset-index-buffer-overflow](tenda-w3-formwrlSSIDset-index-buffer-overflow) | w3 | wifiSSIDset / `formwrlSSIDset` | `index` | Buffer Overflow |
+| [tenda-w3-formwrlSSIDset-go-buffer-overflow](tenda-w3-formwrlSSIDset-go-buffer-overflow) | w3 | wifiSSIDset / `formwrlSSIDset` | `GO` | Buffer Overflow |
