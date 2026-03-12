@@ -17,11 +17,11 @@ Tenda 路由器漏洞复现与分析记录。
 | [tenda-i3-setautoping-ping2-buffer-overflow](tenda-i3-setautoping-ping2-buffer-overflow) | i3 | AutoPing / `formSetAutoPing` | `ping2` | Buffer Overflow | VDB-349768 · CVE-2026-3801 · EUVD-2026-10292 |
 | [tenda-i3-formexeCommand-cmdinput-buffer-overflow](tenda-i3-formexeCommand-cmdinput-buffer-overflow) | i3 | exeCommand / `formexeCommand` | `cmdinput` | Buffer Overflow | VDB-349769 · CVE-2026-3802 · EUVD-2026-10296 |
 | [tenda-i3-formWifiMacFilterGet-index-buffer-overflow](tenda-i3-formWifiMacFilterGet-index-buffer-overflow) | i3 | WifiMacFilterGet / `formWifiMacFilterGet` | `index` | Buffer Overflow | VDB-349770 · CVE-2026-3803 · EUVD-2026-10297 |
-| [tenda-i3-formWifiMacFilterSet-index-buffer-overflow](tenda-i3-formWifiMacFilterSet-index-buffer-overflow) | i3 | WifiMacFilterSet / `formWifiMacFilterSet` | `index` | Buffer Overflow | TBD |
+| [tenda-i3-formWifiMacFilterSet-index-buffer-overflow](tenda-i3-formWifiMacFilterSet-index-buffer-overflow) | i3 | WifiMacFilterSet / `formWifiMacFilterSet` | `index` | Buffer Overflow | VDB-349771 · CVE-2026-3804 |
 | [tenda-i3-formWifiMacFilterSet-go-buffer-overflow](tenda-i3-formWifiMacFilterSet-go-buffer-overflow) | i3 | WifiMacFilterSet / `formWifiMacFilterSet` | `GO` | Buffer Overflow | TBD |
-| [tenda-i3-formwrlSSIDget-index-buffer-overflow](tenda-i3-formwrlSSIDget-index-buffer-overflow) | i3 | wifiSSIDget / `formwrlSSIDget` | `index` | Buffer Overflow | TBD |
-| [tenda-i3-formwrlSSIDset-index-buffer-overflow](tenda-i3-formwrlSSIDset-index-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `index` | Buffer Overflow | TBD |
-| [tenda-i3-formwrlSSIDset-go-buffer-overflow](tenda-i3-formwrlSSIDset-go-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `GO` | Buffer Overflow | TBD |
+| [tenda-i3-formwrlSSIDget-index-buffer-overflow](tenda-i3-formwrlSSIDget-index-buffer-overflow) | i3 | wifiSSIDget / `formwrlSSIDget` | `index` | Buffer Overflow | VDB-350405 · CVE-2026-3970 · GCVE-100-350405 |
+| [tenda-i3-formwrlSSIDset-index-buffer-overflow](tenda-i3-formwrlSSIDset-index-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `index` | Buffer Overflow | VDB-350406 · CVE-2026-3971 · GCVE-100-350406 |
+| [tenda-i3-formwrlSSIDset-go-buffer-overflow](tenda-i3-formwrlSSIDset-go-buffer-overflow) | i3 | wifiSSIDset / `formwrlSSIDset` | `GO` | Buffer Overflow | VDB-350406 · CVE-2026-3971 · GCVE-100-350406 |
 | [tenda-w3-setcfm-funcpara1-buffer-overflow](tenda-w3-setcfm-funcpara1-buffer-overflow) | w3 | CFM / `formSetCfm` | `funcpara1` | Buffer Overflow | TBD |
 | [tenda-w3-setautoping-ping1-buffer-overflow](tenda-w3-setautoping-ping1-buffer-overflow) | w3 | AutoPing / `formSetAutoPing` | `ping1` | Buffer Overflow | TBD |
 | [tenda-w3-setautoping-ping2-buffer-overflow](tenda-w3-setautoping-ping2-buffer-overflow) | w3 | AutoPing / `formSetAutoPing` | `ping2` | Buffer Overflow | TBD |
