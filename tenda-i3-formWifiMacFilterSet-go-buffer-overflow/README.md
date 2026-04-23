@@ -6,6 +6,8 @@ Product: i3
 
 Vulnerability: Buffer Overflow
 
+CVE: CVE-2026-3976
+
 ## Overview
 
 Firmware download website: https://www.tenda.com.cn/material/show/2480
