@@ -6,7 +6,7 @@ Product: i3
 
 Vulnerability: Buffer Overflow
 
-CVE: CVE-2026-3976
+CVE: CVE-2026-3804
 
 ## Overview
 
